@@ -1,0 +1,8 @@
+.sucess {
+    display: flex;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("../images/education.jpg") no-repeat center;
+    width: 100vh !important;
+    background-size: cover;
+    background-attachment: fixed;
+}
