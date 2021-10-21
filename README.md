@@ -14,6 +14,7 @@ Hospedado no servidor Heroku, gerenciador de formulário MailChimp.
 - HTML5 
 - CSS3
 - JavaScript
+- Bootstrap
 - Node JS
 - Express 
 - BodyParser
